@@ -1,0 +1,37 @@
+_repo: The-pirate-s-gold_74032
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    - Gordon-Stables, W.
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+    wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
+description: ''
+gutenberg_issued: '2024-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74032'
+language: en
+pgterms:marc905: 20220525055453gordon
+pgterms:marc906: '1800'
+pgterms:marc907: GB
+production_note: Al Haines, Chuck Greif and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: $aLondon :$bThomas Nelson and Sons, $c1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The pirate's gold
+url: http://www.gutenberg.org/ebooks/74032
