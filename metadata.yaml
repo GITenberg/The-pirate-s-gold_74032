@@ -1,5 +1,8 @@
 _repo: The-pirate-s-gold_74032
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74032-h/images/cover.jpg
 creator:
   author:
     agent_name: Stables, Gordon
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4164
     wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74032#The-pirate-s-gold
 gutenberg_issued: '2024-07-13'
 gutenberg_type: Text
 identifiers:
